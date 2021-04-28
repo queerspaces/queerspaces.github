@@ -1,0 +1,197 @@
+body {
+
+width: 1000px;
+height: 5000px;
+
+font-family: Verdana, Arial, Helvetica;
+
+background-image:
+url('https://i.imgur.com/MjypA8T.jpg');
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+0px 0px;
+
+background-size:
+1600px 5200px;
+
+}
+
+#hello {
+
+  background-repeat: no-repeat;
+
+  background-attachment: scroll;
+
+  position: absolute;
+  bottom: -3910;
+  right: 950;
+
+  background-size:
+  auto;
+  }
+
+#work {
+  font-family: Verdana, Arial, Helvetica;
+  position: absolute;
+  bottom: -4210;
+  right: 170;
+  font-size: 30px;
+   margin: 0px auto 0px auto;
+   padding: 5px;
+  background-color: #8efaef;
+  display: table;
+}
+
+#shanaia{
+
+  background-repeat: no-repeat;
+
+  background-attachment: scroll;
+
+  position: absolute;
+  bottom: -1000;
+  right: -100;
+
+  background-size:
+  auto;
+}
+
+#shane{
+
+    background-repeat: no-repeat;
+
+    background-attachment: scroll;
+
+    position: absolute;
+    bottom: -2710;
+    right: 250;
+
+    background-size:
+    auto;
+}
+
+#raina{
+
+    background-repeat: no-repeat;
+
+    background-attachment: scroll;
+
+    position: absolute;
+    bottom: -140;
+    right: 450;
+
+    background-size:
+    auto;
+}
+
+#kevin{
+
+    background-repeat: no-repeat;
+
+    background-attachment: scroll;
+
+    position: absolute;
+    bottom: -1740;
+    right: 650;
+
+    background-size:
+    auto;
+
+}
+
+#welcome{
+  color: #eb34e8;
+  background-color: #f0e051;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: 500;
+  right: 450;
+  width: 900px;
+
+}
+
+#here{
+  color: #1aba1f;
+  background-color: #f2b76b;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: 50;
+  right: 100;
+  width: 300px;
+
+}
+
+#yellow{
+  color: #7718c9;
+  background-color: #51dbc4;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -550;
+  right: 500;
+  width: 850px;
+}
+
+#lilt{
+  color: #e64575;
+  background-color: #e8eb52;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -1500;
+  right: 130;
+  width: 350px;
+}
+
+#spaces{
+  color: #5c53e6;
+  background-color: #f294ea;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -2100;
+  right: 330;
+  width: 750px;
+}
+
+#click{
+  color: #f58a20;
+  background-color: #97e376;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -3100;
+  right: 430;
+  width: 550px;
+}
+
+#to{
+  color: #e82361;
+  background-color: #af82c2;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  display: table;
+  position: absolute;
+  bottom: -3600;
+  right: 130;
+  width: 450px;
+
+}
+
+#player{
+  position: absolute;
+  bottom: 650;
+  right: 400;
+}
